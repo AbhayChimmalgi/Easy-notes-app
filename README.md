@@ -1,2 +1,2 @@
 # Easy-notes-app
-app where you can store/create notes.
+#app to remember things easily
